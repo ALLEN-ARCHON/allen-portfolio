@@ -32,6 +32,17 @@ Passionate and results-driven Test Engineer and Web Developer with a solid found
 **Soft Skills**: Leadership, Communication, Adaptability, Flexibility
 
 ---
+### 🛠 Languages and Tools
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-right: 10px">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-right: 10px">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-right: 10px">
+    <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin-right: 10px">
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" style="margin-right: 10px">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-right: 10px">
+</div>
+
+---
 
 ## 🧠 Coding with AI
 
